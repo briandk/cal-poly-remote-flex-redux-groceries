@@ -1,5 +1,4 @@
 {
-  "_id": "",
   "name": "RF: Pair Exercise: Redux Groceries",
   "slug": "rf-redux-groceries",
   "description": "Redux is a powerful state management library. Let\\\\'s learn how we can use it alongside React to implement a front end application ready to scale up into the big leagues!"
